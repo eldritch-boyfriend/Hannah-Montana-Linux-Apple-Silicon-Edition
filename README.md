@@ -14,6 +14,8 @@ The ARM64 project uses KDE Plasma 6 and SDDM. Plasma 6 can be sluggish on older 
 
 This project is an unofficial Apple Silicon (ARM64) adaptation of **Hannah Montana Linux v26** by **Noah Cagle**.
 
+This is an unofficial community adaptation and is not affiliated with Noah Cagle or Disney.
+
 Original project:
 [Hannah Montana Linux v26.0](https://gitlab.com/DecaCagle/hannahmontanalinux26)
 
@@ -25,11 +27,11 @@ This repository ports the original x86 release to ARM64 while preserving its vis
 
 The latest pre-built ARM64 ISO is available on the Internet Archive:
 
-https://archive.org/details/hannah-montana-linux-v26-arm64
+[Download the latest ARM64 ISO from the Internet Archive](https://archive.org/details/hannah-montana-linux-v26-arm64)
 
 GitHub Releases also link directly to the latest Internet Archive download.
 
-However, if you'd prefer to build the project from source rather than using the pre-built ISO, you can do so easily.
+If you’d rather build the project from source, follow the instructions below.
 
 ## __Build from source__
 **Requirements:**
@@ -68,3 +70,4 @@ Once the build is completed successfully, you will find an ISO titled `live-imag
 - 🖥 KDE Plasma 6
 - 💾 Bootable ISO
 - 🛠 Built using Debian live-build
+- 💻 Tested in UTM on Apple Silicon Macs
