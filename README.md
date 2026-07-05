@@ -37,7 +37,7 @@ sudo apt install live-build
 __**Steps to build ISO**__
 Clone this repository and navigate to it:
 ```
-git clone https://github.com/eldritch-boyfriend/Hannah-Montana-Linux-Apple-Silicon-Edition && cd HannahMontanaLinux26
+git clone https://github.com/eldritch-boyfriend/Hannah-Montana-Linux-Apple-Silicon-Edition && cd Hannah-Montana-Linux-Apple-Silicon-Edition
 ```
 
 Run the live-build pre-configuration command:
@@ -52,4 +52,13 @@ sudo lb build
 ```
 Note: This will take quite a while to complete. On my system, it takes around 10 minutes. It's also prone to eat up a lot of memory, so I recommend you close as many background apps as you can before building.
 
-Once the build is completed successfully, you will find an ISO titled `live-image-amd64.hybrid.iso` at the root of the repository.
+Once the build is completed successfully, you will find an ISO titled `live-image-arm64.hybrid.iso` at the root of the repository.
+
+## Features
+
+- 🍎 Native Apple Silicon (ARM64)
+- 💜 Original Hannah Montana Linux aesthetic
+- 🐧 Debian Live
+- 🖥 KDE Plasma 6
+- 💾 Bootable ISO
+- 🛠 Built using Debian live-build
