@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Name": "Hannah Montana",
+        "Id": "Hannah-Montana",
+        "License": "GPLv2+",
+        "Authors": [
+            {
+                "Name": "Noah Cagle",
+                "Email": "noahcagleyt@gmail.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+# Build output
+binary/
+boot/
+cache/
+chroot/
+live/
+
+# Generated metadata
+*.contents
+*.files
+*.packages
+binary.modified_timestamps
+
+# ISO images
+*.iso
+
+# macOS
+.DS_Store

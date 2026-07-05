@@ -1,0 +1,8 @@
+PRETTY_NAME="Hannah Montana Linux: Apple Silicon Supremacy Edition 26"
+NAME="Hannah Montana Linux"
+VERSION_ID="26.0"
+VERSION="26.0"
+DEBIAN_VERSION_FULL=13.5
+ID=hml
+ID_LIKE=debian
+HOME_URL="https://gitlab.com/DecaCagle/HannahMontanaLinux26"

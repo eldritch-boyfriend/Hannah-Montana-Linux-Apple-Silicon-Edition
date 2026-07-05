@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install Hannah Montana Linux
+GenericName=Calamares Installer
+Exec=calamares-install-debian
+Comment=Calamares — Installer for Debian Live
+Keywords=calamares;system;install;debian;installer
+Icon=/usr/share/icons/HannahMontana/128x128/apps/system-software-installer.png
+Terminal=false
+Categories=Qt;System;
+StartupWMClass=calamares
+StartupNotify=True

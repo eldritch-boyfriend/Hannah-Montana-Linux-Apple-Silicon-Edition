@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Hannah Montana Plymouth Theme
+Description=Very simple theme for Hannah Montana Linux
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/hannah-montana
+ScriptFile=/usr/share/plymouth/themes/hannah-montana/hannah-montana.script

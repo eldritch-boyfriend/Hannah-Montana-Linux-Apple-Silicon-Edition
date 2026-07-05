@@ -1,0 +1,6 @@
+fastfetch
+grub-efi-arm64
+grub-efi-arm64-bin
+grub-common
+grub2-common
+efibootmgr

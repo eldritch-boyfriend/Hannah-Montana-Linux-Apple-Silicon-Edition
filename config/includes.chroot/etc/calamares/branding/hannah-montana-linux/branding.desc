@@ -1,0 +1,39 @@
+---
+componentName:   hannah-montana-linux
+welcomeStyleCalamares: true
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 800px,580px
+windowPlacement: center
+
+strings:
+    productName:         Hannah Montana Linux
+    shortProductName:    Hannah Montana Linux
+    version:             26.0
+    shortVersion:        26.0
+    versionedName:       Hannah Montana Linux 26.0
+    shortVersionedName:  HML 26.0
+    bootloaderEntryName: Hannah Montana Linux
+    productUrl:          https://gitlab.com/DecaCagle/HannahMontanaLinux
+    supportUrl:          https://gitlab.com/DecaCagle/HannahMontanaLinux
+    knownIssuesUrl:      https://bugs.debian.org
+    releaseNotesUrl:     https://www.debian.org/releases/trixie/releasenotes
+    donateUrl:           https://www.debian.org
+
+sidebar: widget
+navigation: widget
+
+images:
+    productLogo:         "hml-logo.png"
+    productIcon:         "hml-logo.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+style:
+   SidebarBackground:    "#FF96FF"
+   SidebarText:          "#101010"
+   SidebarTextCurrent:   "#000000"
+   SidebarBackgroundCurrent: "#D36ED4"
+
+slideshowAPI: 2
