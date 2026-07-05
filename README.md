@@ -21,7 +21,7 @@ This repository ports the original x86 release to ARM64 while preserving its vis
 
 "Because Apple Silicon users also deserve to live the best of both worlds. 💀"
 
-## Download the latest ISO from the [internet archive]([https://gitlab.com/DecaCagle/hannahmontanalinux26/-/releases](https://archive.org/details/hannah-montana-linux-v26-arm64))
+## Download the latest ISO from the [internet archive](https://archive.org/details/hannah-montana-linux-v26-arm64)
 
 However, if you'd prefer to build the project from source rather than using the pre-built ISO, you can do so easily.
 
