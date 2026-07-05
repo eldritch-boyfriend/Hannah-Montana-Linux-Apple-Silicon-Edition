@@ -10,7 +10,18 @@ This project was made as the focus of a video on my [YouTube channel](https://ww
 ## Note: If you need a distro for old hardware, check out [HML26 Lite](https://gitlab.com/DecaCagle/HannahMontanaLinux26Lite)
 The main project uses KDE Plasma 6 and SDDM. Plasma 6 can be sluggish on older machines. **Generally, you need about 8GB of RAM to run Plasma 6 comfortably**. However, [HML26 Lite](https://gitlab.com/DecaCagle/HannahMontanaLinux26Lite) is a fork of this project that uses [LXQt](https://lxqt-project.org/) and [lightdm](https://github.com/ubuntu/lightdm) instead. **LXQt can run comfortably with only 2GB of RAM, while offering a fully capable desktop experience.** It's certainly not as pretty as Plasma 6, but it's a hell of a lot more efficient.
 
-## Download the latest ISO from the [releases page](https://gitlab.com/DecaCagle/hannahmontanalinux26/-/releases)
+## Credits
+
+This project is an unofficial Apple Silicon (ARM64) adaptation of **Hannah Montana Linux v26** by **Noah Cagle**.
+
+Original project:
+[Hannah Montana Linux v26.0](https://gitlab.com/DecaCagle/hannahmontanalinux26)
+
+This repository ports the original x86 release to ARM64 while preserving its visual identity and overall experience.
+
+"Because Apple Silicon users also deserve to live the best of both worlds. 💀"
+
+## Download the latest ISO from the [internet archive]([https://gitlab.com/DecaCagle/hannahmontanalinux26/-/releases](https://archive.org/details/hannah-montana-linux-v26-arm64))
 
 However, if you'd prefer to build the project from source rather than using the pre-built ISO, you can do so easily.
 
@@ -26,7 +37,7 @@ sudo apt install live-build
 __**Steps to build ISO**__
 Clone this repository and navigate to it:
 ```
-git clone https://gitlab.com/DecaCagle/HannahMontanaLinux26 && cd HannahMontanaLinux26
+git clone https://github.com/eldritch-boyfriend/Hannah-Montana-Linux-Apple-Silicon-Edition && cd HannahMontanaLinux26
 ```
 
 Run the live-build pre-configuration command:
