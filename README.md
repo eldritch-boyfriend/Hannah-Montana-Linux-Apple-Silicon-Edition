@@ -14,7 +14,7 @@ The ARM64 project uses KDE Plasma 6 and SDDM. Plasma 6 can be sluggish on older 
 
 This project is an unofficial Apple Silicon (ARM64) adaptation of **Hannah Montana Linux v26** by **Noah Cagle**.
 
-This is an unofficial community adaptation and is not affiliated with Noah Cagle or Disney.
+This is an unofficial community adaptation. It is not affiliated with or endorsed by Noah Cagle or Disney.
 
 Original project:
 [Hannah Montana Linux v26.0](https://gitlab.com/DecaCagle/hannahmontanalinux26)
