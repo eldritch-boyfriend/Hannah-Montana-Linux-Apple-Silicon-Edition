@@ -1,9 +1,10 @@
 # Build output
-binary/
-boot/
-cache/
-chroot/
-live/
+/binary/
+/boot/
+/cache/
+/chroot/
+/live/
+config/includes.binary/live/
 
 # Generated metadata
 *.contents

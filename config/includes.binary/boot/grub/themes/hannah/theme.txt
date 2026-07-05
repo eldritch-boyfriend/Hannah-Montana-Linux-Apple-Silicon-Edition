@@ -1,0 +1,29 @@
+desktop-image: "grub-16x9.png"
+title-font: "Unifont Regular 16"
+title-color: "#FFFFFF"
+message-font: "Unifont Regular 16"
+message-color: "#FFFFFF"
+terminal-font: "Unifont Regular 16"
+
++ boot_menu {
+    left = 8%
+    top = 12%
+    width = 84%
+    height = 62%
+    item_font = "Unifont Regular 16"
+    item_color = "#FFFFFF"
+    selected_item_color = "#000000"
+    selected_item_pixmap_style = "select_*.png"
+    item_height = 28
+    item_spacing = 4
+}
+
++ label {
+    top = 82%
+    left = 10%
+    width = 80%
+    align = "center"
+    color = "#FFFFFF"
+    font = "Unifont Regular 16"
+    text = "@KEYMAP_SHORT@"
+}
