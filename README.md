@@ -1,4 +1,4 @@
-# Hannah Montana Linux v26
+# Hannah Montana Linux v26 (ARM64)
 ![Preview of Hannah Montana Linux](https://gitlab.com/DecaCagle/hannah-montana-kde-theme/-/raw/master/look-and-feel/com.decacagle.hml/contents/previews/fullscreenpreview.jpg?ref_type=heads)
 ---
 Hannah Montana Linux v26.0 is a modern remaster of the [original Hannah Montana Linux](https://hannahmontana.sourceforge.net/). It uses Debian's [live-build](https://live-team.pages.debian.net/live-manual/html/live-manual/index.en.html) and the [Calamares installer](https://calamares.io/).
