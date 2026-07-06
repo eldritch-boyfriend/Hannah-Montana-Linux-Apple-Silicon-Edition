@@ -40,7 +40,7 @@ Install live-build from the apt repository:
 sudo apt install live-build
 ```
 
-**Note:** live-build requires a Debian-based system. It will not work on other Linux distributions, not even inside of a Docker container (I tried).
+**Note:** live-build requires a Debian-based system. It will not work on other Linux distributions, not even inside of a Docker container.
 
 __**Steps to build ISO**__
 Clone this repository and navigate to it:
@@ -71,7 +71,7 @@ Once the build is completed successfully, you will find an ISO titled `live-imag
 - 💾 Bootable ISO
 - 🛠 Built using Debian live-build
 - 💻 Tested in UTM on Apple Silicon Macs
-- ⚡️ Supports OpenGL-accelerated graphics in compatible virtualized environments (e.g. UTM with VirGL enabled)
+- ⚡️ Supports OpenGL hardware acceleration in compatible virtualized environments (e.g. UTM with VirGL enabled)
 
 ## Screenshots
 
