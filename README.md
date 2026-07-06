@@ -78,12 +78,16 @@ Once the build is completed successfully, you will find an ISO titled `live-imag
 
 ![GRUB Boot Menu](screenshots/grub.png)
 
-## Desktop
+## Installer
 
-![Desktop](screenshots/desktop.png)
+![Installer](screenshots/installer.png)
+
+## Splash Screen
+
+![Splash Screen](screenshots/splash.png)
 
 ## About System
 
 ![About System](screenshots/about.png)
 
-!(screenshots/flex.png)
+![Flex](screenshots/flex.png)
