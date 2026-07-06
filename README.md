@@ -90,4 +90,4 @@ Once the build is completed successfully, you will find an ISO titled `live-imag
 
 ![About System](screenshots/about.png)
 
-![Flex](screenshots/flex.png)
+![Flex](screenshots/flex.JPG)
