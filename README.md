@@ -71,3 +71,19 @@ Once the build is completed successfully, you will find an ISO titled `live-imag
 - 💾 Bootable ISO
 - 🛠 Built using Debian live-build
 - 💻 Tested in UTM on Apple Silicon Macs
+
+## Screenshots
+
+## GRUB Boot Menu
+
+![GRUB Boot Menu](screenshots/grub.png)
+
+## Desktop
+
+![Desktop](screenshots/desktop.png)
+
+## About System
+
+![About System](screenshots/about.png)
+
+!(screenshots/flex.png)
