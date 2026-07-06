@@ -86,8 +86,13 @@ Once the build is completed successfully, you will find an ISO titled `live-imag
 
 ![Splash Screen](screenshots/splash.png)
 
+## Terminal
+
+![Terminal](screenshots/terminal.png)
+
 ## About System
 
 ![About System](screenshots/about.png)
+
 
 ![Flex](screenshots/flex.JPG)
