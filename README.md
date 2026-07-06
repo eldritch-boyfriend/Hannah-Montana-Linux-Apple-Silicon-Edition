@@ -71,6 +71,7 @@ Once the build is completed successfully, you will find an ISO titled `live-imag
 - 💾 Bootable ISO
 - 🛠 Built using Debian live-build
 - 💻 Tested in UTM on Apple Silicon Macs
+- ⚡️ Supports OpenGL-accelerated graphics in compatible virtualized environments (e.g. UTM with VirGL enabled)
 
 ## Screenshots
 
@@ -94,5 +95,6 @@ Once the build is completed successfully, you will find an ISO titled `live-imag
 
 ![About System](screenshots/about.png)
 
+## Yes, this is happening.
 
 ![Flex](screenshots/flex.JPG)
