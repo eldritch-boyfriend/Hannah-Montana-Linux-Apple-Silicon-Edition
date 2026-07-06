@@ -25,11 +25,11 @@ This repository ports the original x86 release to ARM64 while preserving its vis
 
 ## Download
 
-The latest pre-built ARM64 ISO is available on the Internet Archive:
+The latest pre-built ARM64 ISO is available on SourceForge:
 
-[Download the latest ARM64 ISO from the Internet Archive](https://archive.org/details/hannah-montana-linux-v26-arm64)
+[Download the latest ARM64 ISO from SourceForge](https://sourceforge.net/projects/hannah-montana-linux-arm64/files/v26.0-arm64/live-image-arm64.hybrid.iso/download)
 
-GitHub Releases also link directly to the latest Internet Archive download.
+GitHub Releases also link directly to the latest SourceForge download.
 
 If you’d rather build the project from source, follow the instructions below.
 
